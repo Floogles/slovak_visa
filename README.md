@@ -1,5 +1,5 @@
 # slovak_visa
-NOT TO BE WIDELY USED, MADE AS A FAVOUR TO OTHERS.
+NOT TO BE WIDELY USED, MADE AS A FAVOUR TO OTHERS. I DON'T OWN THE CHROMIUM DRIVER.
 
 Made to help a relative book a visa at the Slovakian embassy on their online systems. Only works on the Slovakian website and personal info has been redacted.
 
